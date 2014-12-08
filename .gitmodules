@@ -1,0 +1,3 @@
+[submodule "other"]
+	path = other
+	url = https://bitbucket.org/toshio/test_submodules_other_host.git
